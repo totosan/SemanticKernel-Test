@@ -1,0 +1,14 @@
+/Users/toto/Projects/OpenAI_Demos/Semantic/semantic-plan/FRED/bin/Debug/net8.0/DateTimePrinter
+/Users/toto/Projects/OpenAI_Demos/Semantic/semantic-plan/FRED/bin/Debug/net8.0/DateTimePrinter.deps.json
+/Users/toto/Projects/OpenAI_Demos/Semantic/semantic-plan/FRED/bin/Debug/net8.0/DateTimePrinter.runtimeconfig.json
+/Users/toto/Projects/OpenAI_Demos/Semantic/semantic-plan/FRED/bin/Debug/net8.0/DateTimePrinter.dll
+/Users/toto/Projects/OpenAI_Demos/Semantic/semantic-plan/FRED/bin/Debug/net8.0/DateTimePrinter.pdb
+/Users/toto/Projects/OpenAI_Demos/Semantic/semantic-plan/FRED/obj/Debug/net8.0/DateTimePrinter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/toto/Projects/OpenAI_Demos/Semantic/semantic-plan/FRED/obj/Debug/net8.0/DateTimePrinter.AssemblyInfoInputs.cache
+/Users/toto/Projects/OpenAI_Demos/Semantic/semantic-plan/FRED/obj/Debug/net8.0/DateTimePrinter.AssemblyInfo.cs
+/Users/toto/Projects/OpenAI_Demos/Semantic/semantic-plan/FRED/obj/Debug/net8.0/DateTimePrinter.csproj.CoreCompileInputs.cache
+/Users/toto/Projects/OpenAI_Demos/Semantic/semantic-plan/FRED/obj/Debug/net8.0/DateTimePrinter.dll
+/Users/toto/Projects/OpenAI_Demos/Semantic/semantic-plan/FRED/obj/Debug/net8.0/refint/DateTimePrinter.dll
+/Users/toto/Projects/OpenAI_Demos/Semantic/semantic-plan/FRED/obj/Debug/net8.0/DateTimePrinter.pdb
+/Users/toto/Projects/OpenAI_Demos/Semantic/semantic-plan/FRED/obj/Debug/net8.0/DateTimePrinter.genruntimeconfig.cache
+/Users/toto/Projects/OpenAI_Demos/Semantic/semantic-plan/FRED/obj/Debug/net8.0/ref/DateTimePrinter.dll
